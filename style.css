@@ -851,7 +851,7 @@ body {
 
 .contact-item i {
     color: #7fff00;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 
 .contact-form form {
@@ -885,6 +885,7 @@ body {
     font-weight: 600;
     cursor: pointer;
     transition: all 0.3s ease;
+    font-size: 1.0rem;
 }
 
 .contact-form button:hover {
